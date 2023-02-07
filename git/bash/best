@@ -1,6 +1,10 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+echo "Best School"
+>>>>>>> update_script
 =======
 echo "Best School"
 >>>>>>> update_script
